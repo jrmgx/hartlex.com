@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 26px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #6789b6;
+      }
+
+      .cls-3 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-size: 132.99px;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #f7cb28;
+      }
+
+      .cls-6 {
+        fill: #1a406e;
+      }
+
+      .cls-7 {
+        fill: #dcdcdc;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #f7cb28;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.4, SVG Export Plug-In . SVG Version: 1.2.0 Build 166)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <rect class="cls-7" x="317.46" y="26.29" width="452.07" height="349.99" rx="25.88" ry="25.88"/>
+        <path class="cls-6" d="M769.53,84.63v265.77c0,14.29-11.59,25.88-25.88,25.88h-400.3c-14.29,0-25.88-11.59-25.88-25.88V84.63h452.07Z"/>
+        <rect class="cls-2" x="346.63" y="113.79" width="393.74" height="233.32" rx="1.37" ry="1.37"/>
+        <path class="cls-4" d="M444.91,245.1h0c0,6.36-5.16,11.52-11.52,11.52h-30.72c-6.36,0-11.52-5.16-11.52-11.52h0s0,0,0,0c-8.48,0-15.36,6.88-15.36,15.36v11.52h84.47v-11.52c0-8.48-6.88-15.36-15.36-15.36h0Z"/>
+        <polygon class="cls-5" points="402.67 202.86 402.67 237.42 433.39 237.42 433.39 202.86 448.75 202.86 418.03 172.14 387.31 202.86 402.67 202.86"/>
+        <rect class="cls-6" x="339.34" y="48.17" width="14.58" height="14.58"/>
+        <rect class="cls-6" x="368.5" y="48.17" width="14.58" height="14.58"/>
+        <rect class="cls-6" x="397.67" y="48.17" width="14.58" height="14.58"/>
+      </g>
+      <rect class="cls-8" x="493.06" y="135.62" width="228.82" height="40"/>
+      <rect class="cls-8" x="494.12" y="273.94" width="228.82" height="40"/>
+      <rect class="cls-8" x="493.06" y="204.78" width="228.82" height="40"/>
+      <text class="cls-1" transform="translate(503.06 164.08)"><tspan x="0" y="0">NAME</tspan></text>
+      <text class="cls-1" transform="translate(503.06 233.24)"><tspan x="0" y="0">LANGUAGE</tspan></text>
+      <text class="cls-1" transform="translate(503.06 302.4)"><tspan x="0" y="0">INSTITUTION</tspan></text>
+      <text class="cls-1" transform="translate(503.06 164.08)"><tspan x="0" y="0">NAME</tspan></text>
+      <g>
+        <circle class="cls-6" cx="154.39" cy="204.78" r="118.08"/>
+        <text class="cls-3" transform="translate(115.28 251.99)"><tspan x="0" y="0">1</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
