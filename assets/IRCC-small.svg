@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.06 28.17">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #e73137;
+      }
+
+      .cls-3 {
+        font-family: Lato-Regular, Lato;
+        font-size: 25px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g>
+      <rect class="cls-2" y="2.76" width="10.22" height="20.82"/>
+      <rect class="cls-2" x="32.9" y="2.76" width="10.22" height="20.82"/>
+      <path class="cls-2" d="M20.14,7.09l1.46-2.97,1.45,2.86c.18.3.33.28.62.13l1.25-.62-.81,4c-.17.78.28,1.02.76.48l1.78-1.9.47,1.07c.16.33.4.28.71.22l1.84-.39-.62,2.32v.05c-.09.3-.23.56.11.7l.65.33-3.78,3.2c-.39.4-.25.52-.11.97l.35,1.07-3.53-.64c-.43-.11-.74-.11-.75.24l.15,4.05h-1.06l.15-4.03c0-.4-.3-.39-1.02-.24l-3.26.63.42-1.07c.14-.41.18-.69-.15-.97l-3.87-3.15.71-.44c.21-.16.22-.33.11-.68l-.73-2.36,1.86.4c.52.12.66,0,.8-.29l.52-1.06,1.84,2.08c.33.39.79.13.64-.42l-.88-4.34,1.36.78c.22.13.45.17.58-.08"/>
+    </g>
+    <text class="cls-3" transform="translate(45.37 21.46)"><tspan x="0" y="0">I</tspan><tspan class="cls-1" x="7" y="0">R</tspan><tspan class="cls-4" x="22.49" y="0">C</tspan><tspan x="38.84" y="0">C</tspan></text>
+  </g>
+</svg>
